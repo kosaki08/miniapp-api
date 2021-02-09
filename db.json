@@ -4,23 +4,23 @@
       "features": [
         {
           "id": 1,
-          "page_url": "https://www.e2info.co.jp/",
-          "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/test150.png"
+          "page_url": "https://r-gift-local.s3-ap-northeast-1.amazonaws.com/page/index.html",
+          "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/feature/5E0REMu68d0oK2jjpcGsUXqbQb5fFgJVQRzg5nmy.png"
         },
         {
           "id": 4,
-          "page_url": "https://www.e2info.co.jp/",
-          "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/test150.png"
+          "page_url": "https://r-gift-local.s3-ap-northeast-1.amazonaws.com/page/index2.html",
+          "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/feature/5E0REMu68d0oK2jjpcGsUXqbQb5fFgJVQRzg5nmy.png"
         },
         {
           "id": 3,
           "page_url": "https://www.e2info.co.jp/",
-          "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/test150.png"
+          "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/feature/5E0REMu68d0oK2jjpcGsUXqbQb5fFgJVQRzg5nmy.png"
         },
         {
           "id": 2,
           "page_url": "https://www.e2info.co.jp/",
-          "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/test150.png"
+          "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/feature/5E0REMu68d0oK2jjpcGsUXqbQb5fFgJVQRzg5nmy.png"
         }
       ],
       "brands": [
