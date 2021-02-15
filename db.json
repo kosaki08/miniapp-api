@@ -48,6 +48,104 @@
           "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/brand/image_processing20201127-10-19u3p3w.png",
           "description": "ブランドの説明"
         }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "name": "色とりどりの花を贈る",
+          "items": [
+            {
+              "id": 1,
+              "name": "ドリンクチケット",
+              "price": 500,
+              "tax_flg": "taxless",
+              "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/item/210127_item.jpg",
+              "brand_name": "Starabucks Coffee Japan"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "選べる喜び　カタログ・ギフト券",
+          "items": [
+            {
+              "id": 2,
+              "name": "MACHI caféドリンク(S)",
+              "price": 100,
+              "tax_flg": "taxable",
+              "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/item/karaagekun.jpg",
+              "brand_name": "LAWSON"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "カテゴリー４",
+          "items": [
+            {
+              "id": 9,
+              "name": "商品９",
+              "price": 10000,
+              "tax_flg": "taxless",
+              "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/item/uber_500.png",
+              "brand_name": "ブランド４"
+            },
+            {
+              "id": 8,
+              "name": "商品８",
+              "price": 6000,
+              "tax_flg": "taxless",
+              "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/item/original-1.jpg",
+              "brand_name": "ブランド４"
+            },
+            {
+              "id": 7,
+              "name": "商品７",
+              "price": 5000,
+              "tax_flg": "taxable",
+              "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/item/nihonmonogatari_fj.jpg",
+              "brand_name": "ブランド４"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "カテゴリー３",
+          "items": [
+            {
+              "id": 6,
+              "name": "商品６",
+              "price": 4000,
+              "tax_flg": "taxable",
+              "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/item/md_200%20%281%29.jpg",
+              "brand_name": "ブランド３"
+            },
+            {
+              "id": 5,
+              "name": "商品５",
+              "price": 3000,
+              "tax_flg": "taxable",
+              "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/item/lawson_yebisu%20%281%29.jpg",
+              "brand_name": "ブランド３"
+            },
+            {
+              "id": 4,
+              "name": "商品４",
+              "price": 2000,
+              "tax_flg": "taxable",
+              "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/item/kfc500.jpg",
+              "brand_name": "ブランド３"
+            },
+            {
+              "id": 3,
+              "name": "商品３",
+              "price": 1000,
+              "tax_flg": "taxable",
+              "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/item/2093.jpg",
+              "brand_name": "ブランド３"
+            }
+          ]
+        }
       ]
     }
   },
