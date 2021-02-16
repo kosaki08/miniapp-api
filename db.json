@@ -221,25 +221,25 @@
       {
         "id": 1,
         "name": "Starabucks Coffee Japan",
-        "image_url": "https://r-gift-local.s3.ap-northeast1.amazonaws.com/img/brand/image_processing20201127-10-qlk4t7.jpg",
+        "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/brand/image_processing20201127-10-qlk4t7.jpg",
         "description": "1971年、スターバックスはアメリカ北西部のシアトルにコーヒー豆の専門店として誕生しました。その後、スペシャルティコーヒーストアとして成長。北米以外の海外展開は1996年の日本からスタートし、現在では世界各国の街角で一杯のコーヒーとともにくつろぎのひとときをご提供しています。"
       },
       {
         "id": 2,
         "name": "LAWSON",
-        "image_url": "https://r-gift-local.s3.ap-northeast1.amazonaws.com/img/brand/image_processing20201127-10-g72myp.jpg",
+        "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/brand/image_processing20201127-10-g72myp.jpg",
         "description": "ローソンは、1975年に1号店をオープンし、本格的なフランチャイズチェーン展開を開始しました。\n\n今では全国に展開し、「マチの健康ステーション」として地域の健康一番店を目指すとともに、お客様の身近なコンビニだからできることを考え続けていきます。"
       },
       {
         "id": 4,
         "name": "ブランド４",
-        "image_url": "https://r-gift-local.s3.ap-northeast1.amazonaws.com/img/brand/image_processing20201127-10-115pk64.jpg",
+        "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/brand/image_processing20201127-10-115pk64.jpg",
         "description": "ブランドの説明"
       },
       {
         "id": 3,
         "name": "ブランド３",
-        "image_url": "https://r-gift-local.s3.ap-northeast1.amazonaws.com/img/brand/image_processing20201127-10-19u3p3w.png",
+        "image_url": "https://r-gift-local.s3.ap-northeast-1.amazonaws.com/img/brand/image_processing20201127-10-19u3p3w.png",
         "description": "ブランドの説明"
       }
     ]
